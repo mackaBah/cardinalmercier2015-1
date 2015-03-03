@@ -3,6 +3,8 @@ public class Date {
 	private int jj;
 	private int mm;
 	private int aaaa;
+	public Date(){
+	}
 	public Date(int jj, int mm, int aaaa) {
 		super();
 		this.jj = jj;
